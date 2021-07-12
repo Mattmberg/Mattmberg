@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mattmberg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python, HTML, CSS, and JS!
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in making programs to make daily life and processes better!
+- 🌱 I’m currently learning Python, SQL, HTML, CSS, and JS!
+- 💞️ I’m looking to collaborate on making software that will change the world.
 - 📫 
 
 <!---
