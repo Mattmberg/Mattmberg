@@ -16,7 +16,7 @@
 
 <p align="center">At the moment I am looking for my first position in the Tech Industry- feel free to connect with me on LikedIn!</p>
 
-<p align="left"> LinkedIn-> www.linkedin.com/in/matthew-bergeron-jr-9996701a</p>
+<p align="left"> LinkedIn-> https://www.linkedin.com/in/matthew-bergeron-jr-9996701a1/</p>
 
 <!---
 Mattmberg/Mattmberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
