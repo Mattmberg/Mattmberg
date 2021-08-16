@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Matthew!</h1>
 
-<p align="left">Since I was a child I was always fascinated with technology and my love for it grew extensively when I took my first computer class in middle school. In high school I took as many computer classes that I could learning things like HTML and Java. Ever since I have been mostly self-taught using resources like W3Schools and freecodecamp. Now I am pursuing my first bachelor's with a major in Computer Science.</p>
+<p align="left">Since I was a child I have always been fascinated with technology and my love for it grew extensively when I took my first computer class in middle school. In high school I took as many computer classes that I could learning things like HTML and Java. Ever since I have been mostly self-taught using resources like W3Schools and freecodecamp. Now I am pursuing my first bachelor's with a major in Computer Science.</p>
 
 <br>
 
@@ -14,7 +14,7 @@
 
 <br>
 
-<p align="center">At the moment I am looking for my first position in the Tech Industry- feel free to connect with me on LikedIn!</p>
+<p align="center">At the moment I am looking for my first position in the Tech Industry- feel free to connect with me on LinkedIn!</p>
 
 <p align="left"> LinkedIn-> https://www.linkedin.com/in/matthew-bergeron-jr-9996701a1/</p>
 
