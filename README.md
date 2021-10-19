@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Matthew!</h1>
 
-<p align="left">Since I was a child I have always been fascinated with technology and my love for it grew extensively when I took my first computer class in middle school. In high school I took as many computer classes that I could learning things like HTML and Java. Ever since I have been mostly self-taught using resources like W3Schools and freecodecamp. Now I am pursuing my first bachelor's with a major in Computer Science.</p>
+<p align="left">I am a Full-Stack Developer who is mostly self-taught using resources like StackOverflow, Youtube, W3Schools, and freecodecamp. Now I am pursuing my bachelor's degree with a major in Computer Science.</p>
 
 <br>
 
