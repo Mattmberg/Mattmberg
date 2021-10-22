@@ -5,8 +5,6 @@
 <br>
 
 <p align="center">I have experience with Java, HTML, CSS, JavaScript, Python, and SQL</p>
-<p align="center">I am currently improving on my Python and SQL.</p>
-<p align="center">I plan on learning as many different languages as I can while focusing on the tech stack I need to focus on to complete a function or project.</p>
 
 <br>
 
