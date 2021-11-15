@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Matthew!</h1>
 
-<p align="left">I am a Full-Stack Developer who is mostly self-taught using resources like StackOverflow, Youtube, W3Schools, and freecodecamp. Now I am pursuing my bachelor's degree with a major in Computer Science.</p>
+<p align="left">I am a Full-Stack Developer who enjoys solving problems with code!</p>
 
 <br>
 
