@@ -1,20 +1,29 @@
 <h1 align="center">Hello, I'm Matthew!</h1>
 
-<p align="left">I am a Full-Stack Developer who enjoys solving problems with code!</p>
+<p align="center">I am a Software Developer who enjoys solving problems with code.</p>
+
+## Some things about me:
+- I am always learning something new, at least one thing a day.
+- I have a passion for making software, I listen to podcasts, read books, and practice every day trying to make better software.
+- In my free time I like to study Astronomy and Astrophysics. Currently working on learning astrophotography.
+
+### Technologies:
+<img align="left" alt="Visual Studio Code" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Python" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="SQL" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="HTML" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Java" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="C++" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
 
 <br>
 
-<p align="center">I have experience with Java, HTML, CSS, JavaScript, Python, and SQL</p>
-
 <br>
 
-<p align="center">In my free time I like to study Astronomy and Astrophysics. My new telescope should be coming soon which I will finally be able to do some astrophotography which I plan on incorporating into some projects. I am always trying to grow my skills by trying new things or reading new books as well when I have time.</p>
+## Connect with me:
 
-<br>
-
-<p align="center">At the moment I am looking for my first position in the Tech Industry- feel free to connect with me on LinkedIn!</p>
-
-<p align="left"> LinkedIn-> https://www.linkedin.com/in/matthew-bergeron-jr-9996701a1/</p>
+LinkedIn-> https://www.linkedin.com/in/matthew-bergeron-jr-9996701a1/
 
 <!---
 Mattmberg/Mattmberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
