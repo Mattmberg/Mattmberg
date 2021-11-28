@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Matthew!</h1>
 
-<p align="center">I am a Software Developer who enjoys solving problems with code.</p>
+<p align="center">I'm a Software Engineer who enjoys solving problems with code.</p>
 
 ## Some things about me:
 - I am always learning something new, at least one thing a day.
