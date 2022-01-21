@@ -3,6 +3,7 @@
 <p align="center">I'm a Software Engineer who enjoys solving problems with code.</p>
 
 ## Some things about me:
+- I am currently working on building my first API- still in the early stages, but planning on releasing it this year.
 - I am always learning something new, at least one thing a day.
 - I have a passion for making software, I listen to podcasts, read books, and practice every day trying to make better software.
 - In my free time I like to study Astronomy and Astrophysics. Currently working on learning astrophotography.
