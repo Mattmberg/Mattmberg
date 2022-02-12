@@ -8,6 +8,7 @@
 - I am always learning something new, at least one thing a day.
 - I have a passion for making software, I listen to podcasts, read books, and practice every day trying to make better software.
 - In my free time I like to study Astronomy and Astrophysics. Currently working on learning astrophotography.
+- I have some big news coming up so stay tuned!
 
 ### Technologies I use:
 <img align="left" alt="Visual Studio Code" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
