@@ -1,6 +1,8 @@
 <h1 align="center">Hello, I'm Matthew!</h1>
 
-<p align="center">I'm a Web Developer who enjoys solving problems with code.</p>
+<p align="center">I'm a professional Web Developer and Software Engineer who enjoys solving problems with code.</p>
+
+<p align="center">Important Note: My commits here do not reflect all the work I do. My commits for work or freelancing are proprietary so they are done through other methods.</p>
 
 ## Some things about me:
 - I am always learning something new, at least one thing a day.
@@ -27,7 +29,7 @@
 ## Connect with me and feel free to message me:
 
 LinkedIn-> https://www.linkedin.com/in/matthew-bergeron-jr-9996701a1/
-
+Website-> https://mbergeronjr.netlify.app/
 <!---
 Mattmberg/Mattmberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
