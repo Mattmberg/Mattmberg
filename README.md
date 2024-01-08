@@ -28,7 +28,7 @@
 
 ## Connect with me and feel free to message me:
 
-LinkedIn-> https://www.linkedin.com/in/matthew-bergeron-jr-9996701a1/
+LinkedIn-> https://www.linkedin.com/in/matthew-bergeron-jr-cs/
 Website-> https://mbergeronjr.netlify.app/
 <!---
 Mattmberg/Mattmberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
